@@ -1,0 +1,3 @@
+Este repo es de como instalar, configurar y crear llave SSh en Git
+Tambien una breve introduccion a GitHub como creacion de cuenta, comandos basico e invitar usuarios
+
